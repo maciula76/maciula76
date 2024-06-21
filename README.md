@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @maciula76
 - 🌱 I’m currently learning java, spring, hibernate, kubernetes & docker
+- GCP & FinOps foundation
 
 
 <!---
